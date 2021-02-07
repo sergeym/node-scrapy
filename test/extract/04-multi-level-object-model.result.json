@@ -5,6 +5,7 @@
   },
   "mainContent": {
     "mainParagraph": "Main Paragraph",
-    "secondParagraph": "Second Paragraph"
+    "secondParagraph": "Second Paragraph",
+    "catalogGtmAction": "catalog"
   }
 }

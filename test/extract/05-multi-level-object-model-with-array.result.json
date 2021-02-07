@@ -7,5 +7,6 @@
     "mainParagraph": "Main Paragraph",
     "secondParagraph": "Second Paragraph",
     "links": ["Paragraph", "lots", "and scrapy should catch them all"]
-  }
+  },
+  "pages": [{"page": "1"}, {"page": "2"}, {"page": "3"}]
 }

@@ -5,6 +5,7 @@
   },
   "mainContent": {
     "mainParagraph": ".main-p",
-    "secondParagraph": ".second-p"
+    "secondParagraph": ".second-p",
+    "catalogGtmAction": ".catalog-a (data-gtm-click-name)"
   }
 }
